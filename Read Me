@@ -1,0 +1,11 @@
+What the CIA model brings in terms of specificity to intelligence, and by extension applied public safety and security analysis, the CRISP-DM process model contributes to data mining as a process, which is reflected in its origins. Several years ago, representatives from a diverse array of industries gathered to define the best practices, or standard process, for data mining.8 The result of this task was the CRoss-Industry Standard Process for Data Mining (CRISP-DM). The CRISP-DM process model was based on direct experience from data mining practitioners, rather than scientists or academics, and represents a “best practices” model for data mining that was intended to transcend professional domains. Data mining is as much analytical process as it is specific algorithms and models. Like the CIA Intelligence Process, the CRISP-DM process model has been broken down into six steps: business understanding, data understanding, data preparation, modeling, evaluation, and deployment.9
+Business Understanding
+Perhaps the most important phase of the data mining process includes gaining an understanding of the current practices and overall objectives of the project. During the business understanding phase of the CRISP-DM process, the analyst determines the objectives of the data mining project. Included in this phase are an identification of the resources available and any associated constraints, overall goals, and specific metrics that can be used to evaluate the success or failure of the project.
+Objectives achieved -
+Collect and clean the data for modelling and Visualisation.
+Forecast Explosives usage using Time Series Model.
+Forecast Aircrafts usage using Time Series Model.
+Uncover the relationship between explosives used and world temperature.
+Uncover the relationship between aircrafts used and world temperature
+
+This model can be used during prolonging wars to uncover the expected usage of explosives and aircrafts with their impact on the global temperature
